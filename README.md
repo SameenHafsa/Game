@@ -1,5 +1,5 @@
 Dragon Game  
-A fun and interactive game built using HTML, CSS, and JavaScript. This project demonstrates simple game logic in a user-friendly interface.
+A fun an d interactive game built using HTML, CSS, and JavaScript. This project demonstrates simple game logic in a user-friendly interface.
 
 🚀 Live Demo
 You can play the Game live here: 
