@@ -1,4 +1,4 @@
-#Dragon-Game  
+#ragon-Game  
 
 A fun an d interactive game built using HTML, CSS, and JavaScript. This project demonstrates simple game logic in a user-friendly interface.
 
@@ -19,10 +19,3 @@ A fun an d interactive game built using HTML, CSS, and JavaScript. This project 
               CSS3 - Styling and layout.
               
               javascript
-
-
-Commit changes: git commit -m "Add feature"
-
-Push to your branch: git push origin feature-branch
-
-Open a Pull Request.
